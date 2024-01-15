@@ -1,0 +1,104 @@
+[
+    {
+      "_id": "65a51ede061a1f32eccd849f",
+      "nombre": "Pablo",
+      "apellido": "Lopez",
+      "DNI": "12345657-B",
+      "email": "pablolopez25@gmail.com",
+      "telefono": 639254813,
+      "direccion": {
+        "calle": "Calle",
+        "nombre-calle": "Dr. Galvany",
+        "numero": 35,
+        "CP": 8210,
+        "localidad": "Barcelona"
+      },
+      "contraseña": 123456789,
+      "mercancia": {}
+    },
+    {
+      "_id": "65a51ede061a1f32eccd849c",
+      "nombre": "Pablo",
+      "apellido": "Lopez",
+      "DNI": "12345657-B",
+      "email": "pablolopez25@gmail.com",
+      "telefono": 639254813,
+      "direccion": {
+        "calle": "Calle",
+        "nombre-calle": "Dr. Galvany",
+        "numero": 35,
+        "CP": 8210,
+        "localidad": "Barcelona"
+      },
+      "contraseña": 123456789,
+      "mercancia": {}
+    },
+    {
+      "_id": "65a51ede061a1f32eccd849r",
+      "nombre": "Pablo",
+      "apellido": "Lopez",
+      "DNI": "12345657-B",
+      "email": "pablolopez25@gmail.com",
+      "telefono": 639254813,
+      "direccion": {
+        "calle": "Calle",
+        "nombre-calle": "Dr. Galvany",
+        "numero": 35,
+        "CP": 8210,
+        "localidad": "Barcelona"
+      },
+      "contraseña": 123456789,
+      "mercancia": {}
+    },
+    {
+      "_id": "65a51ede061a1f32eccd849t",
+      "nombre": "Pablo",
+      "apellido": "Lopez",
+      "DNI": "12345657-B",
+      "email": "pablolopez25@gmail.com",
+      "telefono": 639254813,
+      "direccion": {
+        "calle": "Calle",
+        "nombre-calle": "Dr. Galvany",
+        "numero": 35,
+        "CP": 8210,
+        "localidad": "Barcelona"
+      },
+      "contraseña": 123456789,
+      "mercancia": {}
+    },
+    {
+      "_id": "65a51ede061a1f32eccd849h",
+      "nombre": "Pablo",
+      "apellido": "Lopez",
+      "DNI": "12345657-B",
+      "email": "pablolopez25@gmail.com",
+      "telefono": 639254813,
+      "direccion": {
+        "calle": "Calle",
+        "nombre-calle": "Dr. Galvany",
+        "numero": 35,
+        "CP": 8210,
+        "localidad": "Barcelona"
+      },
+      "contraseña": 123456789,
+      "mercancia": {}
+    },
+    {
+      "_id": "65a51ede061a1f32eccd849a",
+      "nombre": "Pablo",
+      "apellido": "Lopez",
+      "DNI": "12345657-B",
+      "email": "pablolopez25@gmail.com",
+      "telefono": 639254813,
+      "direccion": {
+        "calle": "Calle",
+        "nombre-calle": "Dr. Galvany",
+        "numero": 35,
+        "CP": 8210,
+        "localidad": "Barcelona"
+      },
+      "contraseña": 123456789,
+      "mercancia": {}
+    }
+  ]

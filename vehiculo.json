@@ -1,0 +1,38 @@
+[
+    {
+      "_id": "123a",
+      "matricula": "2156-VGH",
+      "modelo": {},
+      "capacidad": ""
+    },
+    {
+      "_id": "456s",
+      "matricula": "2684-GTA",
+      "modelo": {},
+      "capacidad": ""
+    },
+    {
+      "_id": "789d",
+      "matricula": "8246-LLD",
+      "modelo": {},
+      "capacidad": ""
+    },
+    {
+      "_id": "147f",
+      "matricula": "9173-MMC",
+      "modelo": {},
+      "capacidad": ""
+    },
+    {
+      "_id": "258g",
+      "matricula": "1379-BBD",
+      "modelo": {},
+      "capacidad": ""
+    },
+    {
+      "_id": "369h",
+      "matricula": "7139-HHG",
+      "modelo": {},
+      "capacidad": ""
+    }
+  ]
