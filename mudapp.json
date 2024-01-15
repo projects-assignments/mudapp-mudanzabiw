@@ -1,0 +1,324 @@
+{
+    "usuario": [
+        {
+          "_id": "65a51ede061a1f32eccd849f",
+          "nombre": "Pablo",
+          "apellido": "Lopez",
+          "DNI": "12345657-B",
+          "email": "pablolopez25@gmail.com",
+          "telefono": 639254813,
+          "direccion": {
+            "calle": "Calle",
+            "nombre-calle": "Dr. Galvany",
+            "numero": 35,
+            "CP": 8210,
+            "localidad": "Barcelona"
+          },
+          "contraseña": 123456789,
+          "mercancia": {}
+        },
+        {
+          "_id": "65a51ede061a1f32eccd849c",
+          "nombre": "Pablo",
+          "apellido": "Lopez",
+          "DNI": "12345657-B",
+          "email": "pablolopez25@gmail.com",
+          "telefono": 639254813,
+          "direccion": {
+            "calle": "Calle",
+            "nombre-calle": "Dr. Galvany",
+            "numero": 35,
+            "CP": 8210,
+            "localidad": "Barcelona"
+          },
+          "contraseña": 123456789,
+          "mercancia": {}
+        },
+        {
+          "_id": "65a51ede061a1f32eccd849r",
+          "nombre": "Pablo",
+          "apellido": "Lopez",
+          "DNI": "12345657-B",
+          "email": "pablolopez25@gmail.com",
+          "telefono": 639254813,
+          "direccion": {
+            "calle": "Calle",
+            "nombre-calle": "Dr. Galvany",
+            "numero": 35,
+            "CP": 8210,
+            "localidad": "Barcelona"
+          },
+          "contraseña": 123456789,
+          "mercancia": {}
+        },
+        {
+          "_id": "65a51ede061a1f32eccd849t",
+          "nombre": "Pablo",
+          "apellido": "Lopez",
+          "DNI": "12345657-B",
+          "email": "pablolopez25@gmail.com",
+          "telefono": 639254813,
+          "direccion": {
+            "calle": "Calle",
+            "nombre-calle": "Dr. Galvany",
+            "numero": 35,
+            "CP": 8210,
+            "localidad": "Barcelona"
+          },
+          "contraseña": 123456789,
+          "mercancia": {}
+        },
+        {
+          "_id": "65a51ede061a1f32eccd849h",
+          "nombre": "Pablo",
+          "apellido": "Lopez",
+          "DNI": "12345657-B",
+          "email": "pablolopez25@gmail.com",
+          "telefono": 639254813,
+          "direccion": {
+            "calle": "Calle",
+            "nombre-calle": "Dr. Galvany",
+            "numero": 35,
+            "CP": 8210,
+            "localidad": "Barcelona"
+          },
+          "contraseña": 123456789,
+          "mercancia": {}
+        },
+        {
+          "_id": "65a51ede061a1f32eccd849a",
+          "nombre": "Pablo",
+          "apellido": "Lopez",
+          "DNI": "12345657-B",
+          "email": "pablolopez25@gmail.com",
+          "telefono": 639254813,
+          "direccion": {
+            "calle": "Calle",
+            "nombre-calle": "Dr. Galvany",
+            "numero": 35,
+            "CP": 8210,
+            "localidad": "Barcelona"
+          },
+          "contraseña": 123456789,
+          "mercancia": {}
+        }
+      ],
+      "transportista":[
+        {
+          "_id": "65a51ede061a1f32eccd843d",
+          "nombre": "Pablo",
+          "apellido": "Lopez",
+          "DNI": "12345657-B",
+          "email": "pablolopez25@gmail.com",
+          "telefono": 639254813,
+          "direccion": {
+            "calle": "Calle",
+            "nombre-calle": "Dr. Galvany",
+            "numero": 35,
+            "CP": 8210,
+            "localidad": "Barcelona"
+          },
+          "contraseña": 123456789,
+          "mercancia": {}
+        },
+        {
+          "_id": "65a51ede061a1f32eccd845r",
+          "nombre": "Pablo",
+          "apellido": "Lopez",
+          "DNI": "12345657-B",
+          "email": "pablolopez25@gmail.com",
+          "telefono": 639254813,
+          "direccion": {
+            "calle": "Calle",
+            "nombre-calle": "Dr. Galvany",
+            "numero": 35,
+            "CP": 8210,
+            "localidad": "Barcelona"
+          },
+          "contraseña": 123456789,
+          "mercancia": {}
+        },
+        {
+          "_id": "65a51ede061a1f32eccd846w",
+          "nombre": "Pablo",
+          "apellido": "Lopez",
+          "DNI": "12345657-B",
+          "email": "pablolopez25@gmail.com",
+          "telefono": 639254813,
+          "direccion": {
+            "calle": "Calle",
+            "nombre-calle": "Dr. Galvany",
+            "numero": 35,
+            "CP": 8210,
+            "localidad": "Barcelona"
+          },
+          "contraseña": 123456789,
+          "mercancia": {}
+        },
+        {
+          "_id": "65a51ede061a1f32eccd843k",
+          "nombre": "Pablo",
+          "apellido": "Lopez",
+          "DNI": "12345657-B",
+          "email": "pablolopez25@gmail.com",
+          "telefono": 639254813,
+          "direccion": {
+            "calle": "Calle",
+            "nombre-calle": "Dr. Galvany",
+            "numero": 35,
+            "CP": 8210,
+            "localidad": "Barcelona"
+          },
+          "contraseña": 123456789,
+          "mercancia": {}
+        },
+        {
+          "_id": "65a51ede061a1f32eccd842v",
+          "nombre": "Pablo",
+          "apellido": "Lopez",
+          "DNI": "12345657-B",
+          "email": "pablolopez25@gmail.com",
+          "telefono": 639254813,
+          "direccion": {
+            "calle": "Calle",
+            "nombre-calle": "Dr. Galvany",
+            "numero": 35,
+            "CP": 8210,
+            "localidad": "Barcelona"
+          },
+          "contraseña": 123456789,
+          "mercancia": {}
+        },
+        {
+          "_id": "65a51ede061a1f32eccd841m",
+          "nombre": "Pablo",
+          "apellido": "Lopez",
+          "DNI": "12345657-B",
+          "email": "pablolopez25@gmail.com",
+          "telefono": 639254813,
+          "direccion": {
+            "calle": "Calle",
+            "nombre-calle": "Dr. Galvany",
+            "numero": 35,
+            "CP": 8210,
+            "localidad": "Barcelona"
+          },
+          "contraseña": 123456789,
+          "mercancia": {}
+        }
+      ],
+      "vehiculo":[
+        {
+          "_id": "123a",
+          "matricula": "2156-VGH",
+          "modelo": {},
+          "capacidad": ""
+        },
+        {
+          "_id": "456s",
+          "matricula": "2684-GTA",
+          "modelo": {},
+          "capacidad": ""
+        },
+        {
+          "_id": "789d",
+          "matricula": "8246-LLD",
+          "modelo": {},
+          "capacidad": ""
+        },
+        {
+          "_id": "147f",
+          "matricula": "9173-MMC",
+          "modelo": {},
+          "capacidad": ""
+        },
+        {
+          "_id": "258g",
+          "matricula": "1379-BBD",
+          "modelo": {},
+          "capacidad": ""
+        },
+        {
+          "_id": "369h",
+          "matricula": "7139-HHG",
+          "modelo": {},
+          "capacidad": ""
+        }
+      ],
+      "mercancia":[
+        {
+          "volumen": "",
+          "cantidad": "",
+          "peso": "",
+          "express": false
+        },
+        {
+          "volumen": "",
+          "cantidad": "",
+          "peso": "",
+          "express": false
+        },
+        {
+          "volumen": "",
+          "cantidad": "",
+          "peso": "",
+          "express": false
+        },
+        {
+          "volumen": "",
+          "cantidad": "",
+          "peso": "",
+          "express": false
+        },
+        {
+          "volumen": "",
+          "cantidad": "",
+          "peso": "",
+          "express": false
+        },
+        {
+          "volumen": "",
+          "cantidad": "",
+          "peso": "",
+          "express": false
+        },
+        {
+          "volumen": "",
+          "cantidad": "",
+          "peso": "",
+          "express": false
+        }
+      ],
+      "tarifas":[
+        {
+          "km-bultos": "",
+          "%mudapp": "",
+          "%transportista": "",
+          "km-min": ""
+        },
+        {
+          "km-bultos": "",
+          "%mudapp": "",
+          "%transportista": "",
+          "km-min": ""
+        },
+        {
+          "km-bultos": "",
+          "%mudapp": "",
+          "%transportista": "",
+          "km-min": ""
+        },
+        {
+          "km-bultos": "",
+          "%mudapp": "",
+          "%transportista": "",
+          "km-min": ""
+        },
+        {
+          "km-bultos": "",
+          "%mudapp": "",
+          "%transportista": "",
+          "km-min": ""
+        }
+      ]
+}
